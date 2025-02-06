@@ -1,3 +1,4 @@
+from click import clear
 from fastapi import FastAPI
 import random
 
